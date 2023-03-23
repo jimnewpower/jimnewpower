@@ -1,3 +1,5 @@
+<!-- .element: data-background-image="./images/taos.png" -->
+
 ### Hi there 👋
 
 <!--
