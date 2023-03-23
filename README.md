@@ -1,4 +1,4 @@
-![image](./images/taos.png)
+![image](./images/jackson.jpg)
 
 ### Hi there 👋
 
