@@ -1,4 +1,4 @@
-<!-- .element: data-background-image="./images/taos.png" -->
+![image](./images/taos.png)
 
 ### Hi there 👋
 
