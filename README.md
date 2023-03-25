@@ -1,4 +1,5 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=jimnewpower&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimnewpower&theme=blue-green)
 
 ### Hi there 👋
 
