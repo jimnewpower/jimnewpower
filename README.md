@@ -1,4 +1,4 @@
-![image](./images/jackson.jpg)
+![Stats](https://github-readme-stats.vercel.app/api?username=jimnewpower&show_icons=true)
 
 ### Hi there 👋
 
